@@ -2,6 +2,7 @@
 This folder stores the cleaned, processed datasets saved as csv.
 
 ## Data Dictionary for (combined_games_processed)
+This dataset contains information about NCAA March Madness tournament games.
 | Column Name           | Type    | Description                                |
 |-----------------------|---------|--------------------------------------------|
 | `year`                | Numeric | The year the game was played               |
@@ -14,6 +15,7 @@ This folder stores the cleaned, processed datasets saved as csv.
 | `losing_team_score`  | Numeric | Score of the losing team                   |
 
 ## Data Dictionary for (combined_upsets_processed)
+This dataset contains information about March madness NCAA tournament upset games.
 | Column Name           | Type    | Description                                |
 |-----------------------|---------|--------------------------------------------|
 | `year`                | Numeric | The year the game was played               |
@@ -26,6 +28,7 @@ This folder stores the cleaned, processed datasets saved as csv.
 | `losing_team_score`  | Numeric | Score of the losing team                   |
 
 ## Data Dictionary for (seeds__pct_records_processed)
+This dataset summarizes head-to-head matchups between different NCAA tournament seeds.
 | Column Name | Type    | Description                                      |
 |-------------|---------|--------------------------------------------------|
 | `SEED VS. SEED` | Text    | Seed matchups (e.g., 1 vs. 16)                    |
@@ -37,6 +40,7 @@ This folder stores the cleaned, processed datasets saved as csv.
 | `Losses`        | Numeric | Number of losses for `Seed_1` against `Seed_2`   |
 
 ## Data Dictionary for (seeds_records_processed) 
+This dataset provides summary statistics for each seed across NCAA tournament history.
 | Column Name         | Type    | Description                                              |
 |---------------------|---------|----------------------------------------------------------|
 | `SEED`              | Text    | Seed number (1–16)                                       |
