@@ -5,4 +5,4 @@ This folder contains documents related to the project, including the original pr
 Outlines the inital goals and analysis questions for the project. 
 
 ## Project Report 
-A summary of the completed project, including a summary, data dictionary, analysis, methods, visualtions, and conclusions of the analysis. 
+A summary of the completed project, including a summary, data dictionary, analysis, methods, visualizations, and conclusions of the analysis. 
